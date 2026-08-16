@@ -1,16 +1,41 @@
-## Hi there 👋
+## April Wu
 
-<!--
-**aries-cloud/aries-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied machine learning and operations analytics. I build case studies end to end, from raw data through to a decision someone can act on. Previously in corporate finance and investment operations, where the Python automation I built ran in production at a licensed asset management firm, supporting daily operations.
 
-Here are some ideas to get you started:
+**[Portfolio](https://portfolio-april-wu.netlify.app)** · **[Career Suite](https://career-suite.ilume2cloud.workers.dev/)**, a free job-search management platform I built and shipped, open for sign-up
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Case studies
+
+Each is written up in full in the [portfolio](https://portfolio-april-wu.netlify.app). Repositories are published progressively; linked titles are the ones already up.
+
+#### Natural Language Processing
+
+**[Clickbait Spoiling](https://github.com/aries-cloud/Portfolio_Clickbait-Spoiling)** · A four-stage system on the Webis corpus. The decisive finding came from the data rather than the models: 81.5% of spoilers appear verbatim in the linked article, which reframes generation as reading comprehension. Extractive QA duly beat free-form generation at METEOR 0.420 against 0.331, and classification reached 0.739 macro-F1, 3.6× the naive baseline.
+`RoBERTa` `T5` `PyTorch` `ablations`
+
+**Review Sentiment** · Three text representations over 800k Amazon reviews, on one test set. Naive Bayes on n-gram counts (0.8321) beats a neural network on mean-pooled Word2Vec (0.7919). The four-point gap traces to word order, which mean pooling destroys.
+`Naive Bayes` `Word2Vec` `PyTorch`
+
+#### Applied Machine Learning
+
+**Building Energy** · 9 models across regression, classification and clustering on Seattle benchmarking data. Upgrading the model bought ΔR² −0.002; upgrading the features bought +0.078. The conclusion was replicated independently on CBECS national survey data.
+`XGBoost` `Random Forest` `SVR` `MLP` `leakage audit`
+
+#### Operations Analytics
+
+**Clinic Capacity** · Free-text therapy notes turned into a validated progress measure, then trajectory clusters, then a newsvendor reassessment policy. Frees 29.2% of baseline demand as new intake capacity.
+`K-means` `logistic regression` `newsvendor`
+
+**Demand Estimation** · Sold-out items make sales a record of the shelf rather than of demand. Curve clustering recovers the 10.5% that sales data cannot see, and prices are then optimized under business constraints.
+`regression tree` `predict-then-optimize`
+
+**Ride-Hailing Pricing** · A raw price comparison between two platforms that reverses direction once trip distance is controlled, and a significant interaction term that turns out to be a false alarm. The gap sits in the base fare, not the per-mile rate.
+`Welch t-test` `ANOVA`
+
+---
+
+**Toolkit** Python · scikit-learn · PyTorch / Transformers · pandas / NumPy · SQL · Power BI
+
+**Reach me** [LinkedIn](https://www.linkedin.com/in/yawu/) · aries2cloud@gmail.com
