@@ -24,7 +24,7 @@ Repositories are published progressively; linked titles are the ones already up.
 
 #### Applied Machine Learning
 
-**Building Energy** · Nine models across regression, classification and clustering on Seattle benchmarking data. Upgrading the model bought ΔR² −0.002; upgrading the features bought +0.078. The conclusion was replicated independently on CBECS national survey data.
+**[Building Energy](https://github.com/aries-cloud/Portfolio_Building-Energy)** · Nine models across regression, classification and clustering on Seattle benchmarking data. Upgrading the model bought ΔR² −0.002; upgrading the features bought +0.078. The conclusion was replicated independently on CBECS national survey data.
 `XGBoost` `Random Forest` `SVR` `MLP` `leakage audit`
 
 #### Operations Analytics
@@ -40,6 +40,6 @@ Repositories are published progressively; linked titles are the ones already up.
 
 ---
 
-**Toolkit** Python · scikit-learn · PyTorch / Transformers · pandas / NumPy · SQL · Power BI
+**Toolkit** Python · scikit-learn · PyTorch / Transformers · pandas / NumPy
 
 **Reach me** [LinkedIn](https://www.linkedin.com/in/yawu/) · aries2cloud@gmail.com
