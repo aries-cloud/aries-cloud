@@ -29,7 +29,7 @@ Repositories are published progressively; linked titles are the ones already up.
 
 #### Operations Analytics
 
-**Clinic Capacity** · Free-text therapy notes turned into a validated progress measure, then trajectory clusters, then a newsvendor reassessment policy. Frees 29.2% of baseline demand as new intake capacity.
+**[Clinic Capacity](https://github.com/aries-cloud/Portfolio_Clinic-Capacity)** · Free-text therapy notes turned into a validated progress measure, then trajectory clusters, then a newsvendor reassessment policy. Frees 29.2% of baseline demand as new intake capacity.
 `K-means` `logistic regression` `newsvendor`
 
 **Demand Estimation** · Sold-out items make sales a record of the shelf rather than of demand. Curve clustering recovers the 10.5% that sales data cannot see, and prices are then optimized under business constraints.
