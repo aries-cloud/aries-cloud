@@ -1,6 +1,6 @@
 ## April Wu
 
-Applied machine learning and operations analytics. I build case studies end to end, from raw data through to a decision someone can act on. Previously in corporate finance and investment operations, where the Python automation I built ran in production at a licensed asset management firm, supporting daily operations.
+Natural language processing, applied machine learning and operations analytics. I build case studies end to end, from raw data through to a decision someone can act on. Previously in corporate finance and investment operations, where the Python automation I built ran in production at a licensed asset management firm, supporting daily operations.
 
 **[Portfolio](https://portfolio-april-wu.netlify.app)** · **[Career Suite](https://career-suite.ilume2cloud.workers.dev/)**, a free job-search management platform I built and shipped, open for sign-up
 
