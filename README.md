@@ -14,7 +14,7 @@ I build case studies in machine learning and NLP, operations analytics, and valu
 
 Repositories are published progressively; linked titles are the ones already up.
 
-#### Machine Learning & Text Analytics
+#### Machine Learning & NLP
 
 **[Building Energy](https://github.com/aries-cloud/Portfolio_Building-Energy)** · Nine models across regression, classification and clustering on Seattle benchmarking data. Upgrading the model bought ΔR² −0.002; upgrading the features bought +0.078. The conclusion was replicated independently on CBECS national survey data.
 `XGBoost` `Random Forest` `SVR` `MLP` `leakage audit`
@@ -27,7 +27,7 @@ Repositories are published progressively; linked titles are the ones already up.
 
 ---
 
-#### Operations & Decision Analytics
+#### Operations Analytics
 
 **[Clinic Capacity](https://github.com/aries-cloud/Portfolio_Clinic-Capacity)** · Free-text therapy notes turned into a validated progress measure, then trajectory clusters, then a newsvendor reassessment policy. Frees 29.2% of baseline demand as new intake capacity.
 `K-means` `logistic regression` `newsvendor`
