@@ -6,15 +6,11 @@ I build case studies in machine learning and NLP, operations analytics, and valu
 
 **[Portfolio](https://portfolio-april-wu.netlify.app)** · The case studies below, each written up in full.
 
-**[Career Suite](https://career-suite.ilume2cloud.workers.dev/)** · A free job-search management platform I built and shipped, open for sign-up.
+**[Career Suite](https://career-suite.ilume2cloud.workers.dev/)** · A free job-search management platform I built and shipped, open for sign-up. [Product page](https://portfolio-april-wu.netlify.app/projects/career-suite).
 
----
+> Case studies are published progressively; the linked titles are the repositories already up.
 
-### Case studies
-
-Repositories are published progressively; linked titles are the ones already up.
-
-#### Machine Learning & NLP
+## Machine Learning & NLP
 
 **[Building Energy](https://github.com/aries-cloud/Portfolio_Building-Energy)** · Nine models across regression, classification and clustering on Seattle benchmarking data. Upgrading the model bought ΔR² −0.002; upgrading the features bought +0.078. The conclusion was replicated independently on CBECS national survey data.
 `XGBoost` `Random Forest` `SVR` `MLP` `leakage audit`
@@ -25,9 +21,7 @@ Repositories are published progressively; linked titles are the ones already up.
 **Review Sentiment** · Three text representations over 800k Amazon reviews, on one test set. Naive Bayes on n-gram counts (0.8321) beats a neural network on mean-pooled Word2Vec (0.7919). The four-point gap traces back to word order, which mean pooling destroys.
 `Naive Bayes` `Word2Vec` `PyTorch`
 
----
-
-#### Operations Analytics
+## Operations Analytics
 
 **[Clinic Capacity](https://github.com/aries-cloud/Portfolio_Clinic-Capacity)** · Free-text therapy notes turned into a validated progress measure, then trajectory clusters, then a newsvendor reassessment policy. Frees 29.2% of baseline demand as new intake capacity.
 `K-means` `logistic regression` `newsvendor`
@@ -38,15 +32,15 @@ Repositories are published progressively; linked titles are the ones already up.
 **Ride-Hailing Pricing** · A raw price comparison between two platforms that reverses direction once trip distance is controlled, and a significant interaction term that turns out to be a false alarm. The gap sits in the base fare, not the per-mile rate.
 `Welch t-test` `ANOVA`
 
----
-
-#### Valuation
+## Valuation
 
 **Fund Valuation Reconciliation** · An asset manager and its custodian bank each keep a full set of books for the same fund, under charts of accounts that differ in granularity, grouping and naming. A five-step pandas pipeline translates one chart into the other and reports only the breaks. Two rows carry the result: a 1.84M difference in retained earnings sitting beside a period profit that agreed to within one cent. Figures throughout are from an anonymised dataset.
 `pandas` `chart-of-accounts mapping` `break detection` `anonymised data`
 
----
+## Toolkit
 
-**Toolkit** Python · SQL · R · scikit-learn · PyTorch / Transformers · pandas / NumPy
+Python · SQL · R · scikit-learn · PyTorch / Transformers · pandas / NumPy
 
-**Reach me** [LinkedIn](https://www.linkedin.com/in/yawu/) · aries2cloud@gmail.com
+## Reach me
+
+[LinkedIn](https://www.linkedin.com/in/yawu/) · aries2cloud@gmail.com
