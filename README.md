@@ -25,6 +25,8 @@ Repositories are published progressively; linked titles are the ones already up.
 **Review Sentiment** · Three text representations over 800k Amazon reviews, on one test set. Naive Bayes on n-gram counts (0.8321) beats a neural network on mean-pooled Word2Vec (0.7919). The four-point gap traces back to word order, which mean pooling destroys.
 `Naive Bayes` `Word2Vec` `PyTorch`
 
+---
+
 #### Operations & Decision Analytics
 
 **[Clinic Capacity](https://github.com/aries-cloud/Portfolio_Clinic-Capacity)** · Free-text therapy notes turned into a validated progress measure, then trajectory clusters, then a newsvendor reassessment policy. Frees 29.2% of baseline demand as new intake capacity.
@@ -38,6 +40,13 @@ Repositories are published progressively; linked titles are the ones already up.
 
 ---
 
-**Toolkit** Python · scikit-learn · PyTorch / Transformers · pandas / NumPy
+#### Valuation
+
+**Fund Valuation Reconciliation** · An asset manager and its custodian bank each keep a full set of books for the same fund, under charts of accounts that differ in granularity, grouping and naming. A five-step pandas pipeline translates one chart into the other and reports only the breaks. Two rows carry the result: a 1.84M difference in retained earnings sitting beside a period profit that agreed to within one cent. Figures throughout are from an anonymised dataset.
+`pandas` `chart-of-accounts mapping` `break detection` `anonymised data`
+
+---
+
+**Toolkit** Python · SQL · R · scikit-learn · PyTorch / Transformers · pandas / NumPy
 
 **Reach me** [LinkedIn](https://www.linkedin.com/in/yawu/) · aries2cloud@gmail.com
