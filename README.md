@@ -2,7 +2,7 @@
 
 👋 Hi, my name is April Wu.
 
-I build case studies in machine learning and text analytics, operations and decision analytics, and valuation, taking each from raw data through to a decision someone can act on. Before moving into data I spent over three years in corporate finance and investment operations. As an investment accountant at a licensed asset manager I handled portfolio valuation, daily NAV production and custodian reconciliation across the book of funds I carried.
+I build case studies in machine learning, NLP, operations analytics, and valuation, taking each from raw data through to a decision someone can act on. Before moving into data I spent over three years in corporate finance and investment operations. As an investment accountant at a licensed asset manager I handled portfolio valuation, daily NAV production and custodian reconciliation across the book of funds I carried.
 
 **[Portfolio](https://portfolio-april-wu.netlify.app)** · The case studies below, each written up in full.
 
